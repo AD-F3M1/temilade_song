@@ -71,3 +71,25 @@
     color: hsl(218, 44%, 22%);
     padding-top: 20px;
 }
+
+
+.button {
+    background-color: gray;
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 1px 1px;
+    border-radius: 25%;
+    position: absolute;
+    bottom: 12%;
+    font-weight: bold;
+  }
+
+#anchor{
+    justify-content: center;
+    display: flex;
+}
